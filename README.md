@@ -46,3 +46,13 @@ and compare the output with the expected output files.
 ## Language
 
 Python 3
+## Repository Structure
+
+The problems folder contains four Python solutions.
+The tests folder contains sample input and expected
+output files for each problem.
+
+## Git Workflow
+
+Development was carried out on the dev branch.
+The completed work is merged into the main branch.
